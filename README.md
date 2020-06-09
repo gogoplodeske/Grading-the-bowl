@@ -18,7 +18,7 @@ Moreover, you may assume the existence of labels as needed, but my algorithims a
 • Output: A discrete grading of the bowel echogenicity, ranging from 0 (as dark as the surrounding amniotic fluid) to 6 
 (as bright as the bones). 
 
-![GitHub Logo](/images/bowl.png)
+![GitHub Logo](/bowl.png)
 Format: ![Alt Text](url)
 
 
