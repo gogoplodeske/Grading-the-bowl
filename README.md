@@ -5,7 +5,7 @@ Grading the Echogenicity of Fetal Bowel
 Background: Hyper-echogenicity of the bowel refers to an increased ability of the bowel to reflect sound waves that are transmitted towards
 it in an ultrasound screening. In the resulting image acquired from the reflected waves, it is expressed in an unusually bright tissue in
 comparison to its surroundings. The anomaly is usually detected in second-trimester sonographies, and is thought to be associated with 
-several pathologies. In this repo my my describtion and partially implemention a model to diagnose it. 
+several pathologies. In this repo you can find  my describtion and partially implemention a model to diagnose it. 
 
 • Objective: To grade ultrasound images of fetal abdomen according to bowel echogenicity level, within the range 0-6. 
 In this project is assumed that the bowel cannot be identified visually in the image, and thus define it as everything within the 
